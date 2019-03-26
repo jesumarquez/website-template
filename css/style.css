@@ -8,7 +8,9 @@ hr {
 
 .contact-form {
     padding: 100px 200px;
-    background: rgb(241, 241, 241);
+    background: url('/img/madera.jpg');
+    background-attachment: fixed;
+    color: white;
 }
 
 .footer-link ul {
